@@ -1,5 +1,5 @@
 ### Hi there 👋
-### 🔭 I'm currently Graduate student at California State University - San Marcos
+### 🔭 Graduate student at California State University -San Marcos
 
 <!--
 **nihalnihalani/nihalnihalani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
