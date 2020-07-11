@@ -1,5 +1,6 @@
 ### Hi there 👋
-### 🔭 Graduate student at California State University -San Marcos
+### 🔭 Graduate student at California State University -San Marcos.
+### 🌱 I’m currently learning Machine Learning and Deep Learning.
 
 <!--
 **nihalnihalani/nihalnihalani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
