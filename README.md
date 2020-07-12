@@ -1,6 +1,7 @@
 ### Hi there I am Nihal Nihalani 👋
 ### 🔭 I'm a Graduate student at California State University - San Marcos.
 ### 🌱 I’m currently learning Machine Learning and Deep Learning.
+### 📫 How to reach me: email: nihal.nihalani@gmail.com
 
 <!--
 **nihalnihalani/nihalnihalani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
