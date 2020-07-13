@@ -3,7 +3,7 @@
 ### 🌱 I’m currently learning Machine Learning and Deep Learning.
 ### 📫 How to reach me: email: nihal.nihalani@gmail.com
 
-[![Linkedin:Nihal Nihalani ](https://img.shields.io/badge/-nihalnihalani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nihalnihalani/)]. (https://www.linkedin.com/in/nihalnihalani/)[![HitCount](http://hits.dwyl.com/nihalnihalani/nihalnihalani.svg)](http://hits.dwyl.com/nihalnihalani/nihalnihalani)
+[![Linkedin:Nihal Nihalani ](https://img.shields.io/badge/-nihalnihalani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nihalnihalani/)](https://www.linkedin.com/in/nihalnihalani/)  [![HitCount](http://hits.dwyl.com/nihalnihalani/nihalnihalani.svg)](http://hits.dwyl.com/nihalnihalani/nihalnihalani)
 <!--
 **nihalnihalani/nihalnihalani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
