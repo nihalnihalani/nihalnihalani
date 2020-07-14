@@ -1,7 +1,7 @@
 ### Hi there I am Nihal Nihalani 👋
 ### 🔭 I'm a Graduate student at California State University - San Marcos.
 ### 🌱 I’m currently learning Machine Learning and Deep Learning.
-### 📫 How to reach me: email: nihal.nihalani@gmail.com
+### 📫 How to reach me: nihal.nihalani@gmail.com
 
 [![Linkedin:Nihal Nihalani ](https://img.shields.io/badge/-nihalnihalani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nihalnihalani/)](https://www.linkedin.com/in/nihalnihalani/)  [![HitCount](http://hits.dwyl.com/nihalnihalani/nihalnihalani.svg)](http://hits.dwyl.com/nihalnihalani/nihalnihalani)
 <!--
