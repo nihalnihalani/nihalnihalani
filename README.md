@@ -3,7 +3,7 @@
 ### 🌱 I’m currently learning Machine Learning and Deep Learning.
 ### 📫 How to reach me: nihal.nihalani@gmail.com
 
-[![Linkedin:Nihal Nihalani ](https://img.shields.io/badge/-nihalnihalani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nihalnihalani/)](https://www.linkedin.com/in/nihalnihalani/)  [![HitCount](http://hits.dwyl.com/nihalnihalani/nihalnihalani.svg)](http://hits.dwyl.com/nihalnihalani/nihalnihalani)
+[![Linkedin:Nihal Nihalani ](https://img.shields.io/badge/-nihalnihalani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nihalnihalani/)](https://www.linkedin.com/in/nihalnihalani/)  [![HitCount](http://hits.dwyl.com/nihalnihalani/nihalnihalani.svg)](http://hits.dwyl.com/nihalnihalani/nihalnihalani) ![visitors](https://visitor-badge.glitch.me/badge?page_id=nihalnihalani.nihalnihalani) <br>
 <p  align="center">
   <img src="https://github-readme-stats.vercel.app/api/?username=nihalnihalani&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/></br>
 </p>
