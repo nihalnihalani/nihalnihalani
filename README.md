@@ -5,7 +5,6 @@
 
 [![Linkedin:Nihal Nihalani ](https://img.shields.io/badge/-nihalnihalani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nihalnihalani/)](https://www.linkedin.com/in/nihalnihalani/)  [![HitCount](http://hits.dwyl.com/nihalnihalani/nihalnihalani.svg)](http://hits.dwyl.com/nihalnihalani/nihalnihalani)
 <p  align="center">
-  <a href="https://raw.githubusercontent.com/mmphego/mmphego/master/resources/mpho.mp3">How to pronounce my name!</a></br>
   <img src="https://github-readme-stats.vercel.app/api/?username=nihalnihalani&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/></br>
 </p>
 <!--
