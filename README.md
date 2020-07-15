@@ -2,19 +2,18 @@
 ### 🔭 I'm a Graduate student at California State University - San Marcos.
 ### 🌱 I’m currently learning Machine Learning and Deep Learning.
 ### 📫 How to reach me: nihal.nihalani@gmail.com
-<br>
   
-    <img align="left" alt="Nihal Nihalani | Linkedin" width="24px" src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/Linkedin.svg" />
+  <img align="left" alt="Nihal Nihalani | Linkedin" width="24px" src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/Linkedin.svg" />
   </a>
   <a href="https://www.instagram.com/i_am_nihal_/">
     <img align="left" alt="Nihal Nihalani | Instagram" width="24px" src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/Instagram.svg" />
   </a>
   <a href="mailto:nihal.nihalani@gmail.com">
     <img align="left" alt="Nihal Nihalani | Gmail" width="26px" src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/Gmail.svg" />
-  </a>
-   [![HitCount](http://hits.dwyl.com/nihalnihalani/nihalnihalani.svg)](http://hits.dwyl.com/nihalnihalani/nihalnihalani) 
-  <a href="https://www.linkedin.com/in/nihalnihalani/">
  
+ [![HitCount](http://hits.dwyl.com/nihalnihalani/nihalnihalani.svg)](http://hits.dwyl.com/nihalnihalani/nihalnihalani) 
+  <a href="https://www.linkedin.com/in/nihalnihalani/">
+  </a>
 
 
 
