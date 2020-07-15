@@ -11,7 +11,7 @@
     <img align="left" alt="Nihal Nihalani | Instagram" width="24px" src="https://github.com/nihalnihalani/nihalnihalani/tree/master/Assets/Instagram.svg" />
   </a>
   <a href="mailto:nihal.nihalani@gmail.com">
-    <img align="left" alt="Nihal Nihalani | Gmail" width="26px" src="https://github.com/nihalnihalani/nihalnihalani/tree/master/Assets/Gmail.svg" />
+    <img align="left" alt="Nihal Nihalani | Gmail" width="26px" src="https://github.com/nihalnihalani/nihalnihalani/Assets/Gmail.svg" />
   </a>
 
 
