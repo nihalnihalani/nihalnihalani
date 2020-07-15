@@ -5,20 +5,20 @@
 
   [![HitCount](http://hits.dwyl.com/nihalnihalani/nihalnihalani.svg)](http://hits.dwyl.com/nihalnihalani/nihalnihalani) 
   <a href="https://www.linkedin.com/in/nihalnihalani/">
-    <img align="left" alt="Nihal Nihalani | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+    <img align="left" alt="Nihal Nihalani | Linkedin" width="24px" src="https://github.com/nihalnihalani/nihalnihalani/tree/master/Assets/Linkedin.svg" />
   </a>
   <a href="https://www.instagram.com/i_am_nihal_/">
-    <img align="left" alt="Nihal Nihalani | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
+    <img align="left" alt="Nihal Nihalani | Instagram" width="24px" src="https://github.com/nihalnihalani/nihalnihalani/tree/master/Assets/Instagram.svg" />
   </a>
   <a href="mailto:nihal.nihalani@gmail.com">
-    <img align="left" alt="Nihal Nihalani | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+    <img align="left" alt="Nihal Nihalani | Gmail" width="26px" src="https://github.com/nihalnihalani/nihalnihalani/tree/master/Assets/Gmail.svg" />
   </a>
 
 
 
 
 <p  align="right">
-  <img src="https://github-readme-stats.vercel.app/api/?username=nihalnihalani&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/></br>
+  <img src="https://github-readme-stats.vercel.app/api/?username=nihalnihalani&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/>
 </p>
 <!--
 **nihalnihalani/nihalnihalani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
