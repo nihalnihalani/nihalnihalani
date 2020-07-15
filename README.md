@@ -2,7 +2,7 @@
 ### 🔭 I'm a Graduate student at California State University - San Marcos.
 ### 🌱 I’m currently learning Machine Learning and Deep Learning.
 ### 📫 How to reach me: nihal.nihalani@gmail.com
-  
+  <p align="left">
   <img align="left" alt="Nihal Nihalani | Linkedin" width="24px" src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/Linkedin.svg" />
   </a>
   <p href="https://www.instagram.com/i_am_nihal_/">
