@@ -5,15 +5,15 @@
   
   <img align="left" alt="Nihal Nihalani | Linkedin" width="24px" src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/Linkedin.svg" />
   </a>
-  <a href="https://www.instagram.com/i_am_nihal_/">
+  <p href="https://www.instagram.com/i_am_nihal_/">
     <img align="left" alt="Nihal Nihalani | Instagram" width="24px" src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/Instagram.svg" />
-  </a>
-  <a href="mailto:nihal.nihalani@gmail.com">
+  </p>
+  <p href="mailto:nihal.nihalani@gmail.com">
     <img align="left" alt="Nihal Nihalani | Gmail" width="26px" src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/Gmail.svg" />
  
  [![HitCount](http://hits.dwyl.com/nihalnihalani/nihalnihalani.svg)](http://hits.dwyl.com/nihalnihalani/nihalnihalani) 
-  <a href="https://www.linkedin.com/in/nihalnihalani/">
-  </a>
+  <p href="https://www.linkedin.com/in/nihalnihalani/">
+  </p>
 
 
 
