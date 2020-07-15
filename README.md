@@ -14,9 +14,7 @@
  [![HitCount](http://hits.dwyl.com/nihalnihalani/nihalnihalani.svg)](http://hits.dwyl.com/nihalnihalani/nihalnihalani) 
   <p href="https://www.linkedin.com/in/nihalnihalani/">
   </p>
-
-
-
+  </p>
 <p  align="right">
   <img src="https://github-readme-stats.vercel.app/api/?username=nihalnihalani&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/>
 </p>
