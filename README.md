@@ -3,9 +3,7 @@
 ### 🌱 I’m currently learning Machine Learning and Deep Learning.
 ### 📫 How to reach me: nihal.nihalani@gmail.com
 
-[![Linkedin:Nihal Nihalani ](https://img.shields.io/badge/-nihalnihalani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nihalnihalani/)](https://www.linkedin.com/in/nihalnihalani/)  [![HitCount](http://hits.dwyl.com/nihalnihalani/nihalnihalani.svg)](http://hits.dwyl.com/nihalnihalani/nihalnihalani)   <br>
-<br>
-
+[![Linkedin:Nihal Nihalani ](https://img.shields.io/badge/-nihalnihalani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nihalnihalani/)](https://www.linkedin.com/in/nihalnihalani/)  [![HitCount](http://hits.dwyl.com/nihalnihalani/nihalnihalani.svg)](http://hits.dwyl.com/nihalnihalani/nihalnihalani) 
   <a href="https://www.linkedin.com/in/nihalnihalani/">
     <img align="left" alt="Nihal Nihalani | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
@@ -16,7 +14,7 @@
     <img align="left" alt="Nihal Nihalani | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
 
-<br>
+
 
 
 <p  align="right">
