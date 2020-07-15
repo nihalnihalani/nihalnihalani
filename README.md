@@ -12,7 +12,6 @@
     <img align="left" alt="Nihal Nihalani | Gmail" width="26px" src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/Gmail.svg" />
  
  [![HitCount](http://hits.dwyl.com/nihalnihalani/nihalnihalani.svg)](http://hits.dwyl.com/nihalnihalani/nihalnihalani) 
-  <p href="https://www.linkedin.com/in/nihalnihalani/">
   </p>
   </p>
 <p  align="right">
