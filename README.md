@@ -18,13 +18,13 @@
     <img align="left" alt="Nihal Nihalani | Instagram" width="24px" src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/Instagram.svg" />
   </a>
   <a href="mailto:nihal.nihalani@gmail.com">
-    <img align="left" alt="Nihal Nihalani | Gmail" width="26px" src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/Gmail.svg" />
+    <img align="left" alt="Nihal Nihalani | Gmail" width="24px" src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/Gmail.svg" />
  </a>
  
  
  [![HitCount](http://hits.dwyl.com/nihalnihalani/nihalnihalani.svg)](http://hits.dwyl.com/nihalnihalani/nihalnihalani) 
  
- <a href="https://api.whatsapp.com/send?phone=+17608841164"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/whatsapp.svg" width="30px" alt="Whatsapp"></a>  
+ <a href="https://api.whatsapp.com/send?phone=+17608841164" src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/whatsapp.svg" width="24px" alt="Whatsapp"></a>  
   </p>
   </p>
 </br>
