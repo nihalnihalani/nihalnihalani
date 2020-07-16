@@ -1,8 +1,6 @@
-<p align="right"
+<p align="right">
 ![Nihal Nihalani's github stats](https://github-readme-stats.vercel.app/api?username=nihalnihalani&show_icons=true&hide_border=true)
-
 </p>
-
 ###   <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/Hi.gif" width="29px"> Hi there I am Nihal Nihalani 
 ### 🔭 I'm a Graduate student at California State University - San Marcos.
 ### 🌱 I’m currently learning Machine Learning and Deep Learning.
