@@ -1,13 +1,15 @@
-<br>
-<p  align="right">
-<img src="https://github-readme-stats.vercel.app/api/?username=nihalnihalani&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/>
-<br>
-<p  align="left'>         
+
+<p  align="left'>
+           
 ###   <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/Hi.gif" width="29px"> Hi there I am Nihal Nihalani 
 ### 🔭 I'm a Graduate student at California State University - San Marcos.
 ### 🌱 I’m currently learning Machine Learning and Deep Learning.
 ### 📫 How to reach me: nihal.nihalani@gmail.com
 </p>
+<br>
+<p  align="right">
+<img src="https://github-readme-stats.vercel.app/api/?username=nihalnihalani&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/>
+  </p>
   <img align="left" alt="Nihal Nihalani | Linkedin" width="24px" src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/Linkedin.svg" />
   </a>
   <p href="https://www.instagram.com/i_am_nihal_/">
