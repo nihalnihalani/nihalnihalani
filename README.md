@@ -22,7 +22,7 @@
  </a>
  
  <a href="https://api.whatsapp.com/send?phone=+17608841164"> 
- <img align="left" width="24px" src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/whatsapp.svg" alt="Whatsapp"/>
+ <img align="left" width="26px" src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/whatsapp.svg" alt="Whatsapp"/>
  </a> 
   
  [![HitCount](http://hits.dwyl.com/nihalnihalani/nihalnihalani.svg)](http://hits.dwyl.com/nihalnihalani/nihalnihalani) 
