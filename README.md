@@ -1,4 +1,6 @@
-
+<p>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/?username=nihalnihalani&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000&hide_border=true" alt="github stats"/ width="420">
+</p>
 
 
 ###   <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/Hi.gif" width="29px"> Hi there I am Nihal Nihalani 
@@ -7,9 +9,7 @@
 ### 📫 How to reach me: nihal.nihalani@gmail.com
 
 
-<p>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/?username=nihalnihalani&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000&hide_border=true" alt="github stats"/ width="420">
-</p>
+
 
 
 <a href="https://in.linkedin.com/in/nihalnihalani">
