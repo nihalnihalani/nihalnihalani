@@ -9,17 +9,17 @@
 ### 🌱 I’m currently learning Machine Learning and Deep Learning.
 ### 📫 How to reach me: nihal.nihalani@gmail.com
 
-<p align="left">
+
+<a href="https://in.linkedin.com/in/nihalnihalani">
   <img align="left" alt="Nihal Nihalani | Linkedin" width="24px" src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/Linkedin.svg" />
-  </p>
   </a>
   
-  <p href="https://www.instagram.com/i_am_nihal_/">
+  <a href="https://www.instagram.com/i_am_nihal_/">
     <img align="left" alt="Nihal Nihalani | Instagram" width="24px" src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/Instagram.svg" />
-  </p>
-  <p href="mailto:nihal.nihalani@gmail.com">
+  </a>
+  <a href="mailto:nihal.nihalani@gmail.com">
     <img align="left" alt="Nihal Nihalani | Gmail" width="26px" src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/Gmail.svg" />
- 
+ </a>
  [![HitCount](http://hits.dwyl.com/nihalnihalani/nihalnihalani.svg)](http://hits.dwyl.com/nihalnihalani/nihalnihalani) 
   </p>
   </p>
