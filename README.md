@@ -8,8 +8,6 @@
 ### 🌱 I’m currently learning Machine Learning and Deep Learning.
 ### 📫 How to reach me: nihal.nihalani@gmail.com
 </p>
-</br>
-  <p align="left">
   <img align="left" alt="Nihal Nihalani | Linkedin" width="24px" src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/Linkedin.svg" />
   </a>
   <p href="https://www.instagram.com/i_am_nihal_/">
@@ -21,7 +19,7 @@
  [![HitCount](http://hits.dwyl.com/nihalnihalani/nihalnihalani.svg)](http://hits.dwyl.com/nihalnihalani/nihalnihalani) 
   </p>
   </p>
-
+</br>
 </p>
 <!--
 **nihalnihalani/nihalnihalani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
