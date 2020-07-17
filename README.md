@@ -35,10 +35,11 @@
     <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/tensorflow-ar21.svg" alt="Tensorflow" style="vertical-align:top; margin:4px">
 <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/python-ar21.svg" alt="python" style="vertical-align:top; margin:4px">
 <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/kaggle-ar21.svg" alt="Kaggle" style="vertical-align:top; margin:4px"><img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/jupyter-ar21.svg" alt="Jupyter" style="vertical-align:top; margin:4px"><img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/java-ar21.svg" alt="Java" style="vertical-align:top; margin:4px"> 
+  <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/numpy-ar21.svg" alt="Numpy" style="vertical-align:top; margin:4px">
 </p>
 <!--
 
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="Twitter" style="vertical-align:top; margin:4px">
+  
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg"alt="Twitter" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="Twitter" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="Twitter" style="vertical-align:top; margin:4px">
