@@ -30,8 +30,9 @@
  </a> 
   
  [![HitCount](http://hits.dwyl.com/nihalnihalani/nihalnihalani.svg)](http://hits.dwyl.com/nihalnihalani/nihalnihalani) 
- ___
- 
+___
+***
+---
 ### Languages and tools
 <p align="left">
     <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/tensorflow-ar21.svg" alt="Tensorflow" style="vertical-align:top; margin:4px">
@@ -40,8 +41,7 @@
   <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/numpy-ar21.svg" alt="Numpy" style="vertical-align:top; margin:4px">
    <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/pytorch-ar21.svg" alt="pytorch" style="vertical-align:top; margin:4px">
 </p>
-***
----
+
 <!--
 
   
