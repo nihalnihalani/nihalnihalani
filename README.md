@@ -30,7 +30,6 @@
  </a> 
   
  [![HitCount](http://hits.dwyl.com/nihalnihalani/nihalnihalani.svg)](http://hits.dwyl.com/nihalnihalani/nihalnihalani) 
-___
 
 # Languages and tools
 <p align="left">
