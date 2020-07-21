@@ -33,26 +33,26 @@
 
 # Technical skills
 
-## Languages
+### Languages
 <p align="left">
   <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/java-ar21.svg" alt="Java" style="vertical-align:top; margin:4px">
   <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/python-ar21.svg" alt="python" style="vertical-align:top; margin:4px">
 </p>
 
-## Tools
+### Tools
 <p align="left">
   <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/jupyter-ar21.svg" alt="Jupyter" style="vertical-align:top; margin:4px">  
 </p>
 
-## Cloud Base Technology
+### Cloud Base Technology
 <p align="left">
 </p>
 
-## Database Management 
+### Database Management 
 <p align="left">
 </p>
 
-## Machine Learning
+### Machine Learning
 <p align="left">
 <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/tensorflow-ar21.svg" alt="Tensorflow" style="vertical-align:top; margin:4px">
 <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/kaggle-ar21.svg" alt="Kaggle" style="vertical-align:top; margin:4px">
