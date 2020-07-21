@@ -31,7 +31,8 @@
   
  [![HitCount](http://hits.dwyl.com/nihalnihalani/nihalnihalani.svg)](http://hits.dwyl.com/nihalnihalani/nihalnihalani) 
 
-# Languages and tools
+# Technical skills
+---
 <p align="left">
     <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/tensorflow-ar21.svg" alt="Tensorflow" style="vertical-align:top; margin:4px">
 <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/python-ar21.svg" alt="python" style="vertical-align:top; margin:4px">
