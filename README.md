@@ -48,9 +48,7 @@
 <p align="left">
 </p>
 
-### Database Management 
-<p align="left">
-</p>
+
 
 ### Machine Learning
 <p align="left">
@@ -69,7 +67,9 @@
 </p>
 
 <!--
-
+### Database Management 
+<p align="left">
+</p>
   
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg"alt="Twitter" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="Twitter" style="vertical-align:top; margin:4px">
