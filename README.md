@@ -34,7 +34,7 @@
 # Technical skills
 
 ### Languages
----
+
 <p align="left">
   <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/java-ar21.svg" alt="Java" style="vertical-align:top; margin:4px">
   <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/python-ar21.svg" alt="python" style="vertical-align:top; margin:4px">
