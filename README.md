@@ -49,7 +49,7 @@
 <p align="left">
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="Aws" style="vertical-align:top; margin:4px">
   <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/firebase-ar21.svg" alt="firebase" style="vertical-align:top; margin:4px">
- <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/google_cloud-icon.svg" width="70px" alt="Google Cloud" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/google_cloud-icon.svg" width="40px" alt="Google Cloud" style="vertical-align:top; margin:4px">
 </p>
 
 ### Machine Learning
