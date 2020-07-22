@@ -61,8 +61,7 @@
  <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/pytorch-ar21.svg" alt="pytorch" style="vertical-align:top; margin:4px">
 </p>
 <p align="left">
-    
-![Course Achievments](Assets/achievments.png)
+ 
 
 <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/achievments.png">
    
