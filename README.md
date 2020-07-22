@@ -63,6 +63,8 @@
 <p align="left">
     
 ![Course Achievments](Assets/achievments.png)
+
+<img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/achievments.png">
    
 
 </p>
