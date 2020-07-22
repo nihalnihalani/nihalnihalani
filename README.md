@@ -42,6 +42,7 @@
 
 ### Tools
 <p align="left">
+  <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/arduino-official.svg"alt="Arduino" style="vertical-align:top; margin:4px">
   <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/jupyter-ar21.svg" alt="Jupyter" style="vertical-align:top; margin:4px">  
 </p>
 
@@ -73,7 +74,7 @@
 <p align="left">
 </p>
   
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg"alt="Twitter" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/arduino-official.svg"alt="Arduino" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="Twitter" style="vertical-align:top; margin:4px">
  
   
