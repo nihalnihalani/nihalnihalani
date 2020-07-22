@@ -62,9 +62,7 @@
 </p>
 <p align="left">
     
-
-
-
+![Course Achievments](Assets/achievments.png)
    
 
 </p>
