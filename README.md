@@ -29,7 +29,7 @@
  <img align="left" width="40px" src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/whatsapp.svg" alt="Whatsapp"/>
  </a> 
   
- [![HitCount](http://hits.dwyl.com/nihalnihalani/nihalnihalani.svg)]width="40px"(http://hits.dwyl.com/nihalnihalani/nihalnihalani) 
+ [![HitCount](http://hits.dwyl.com/nihalnihalani/nihalnihalani.svg)](http://hits.dwyl.com/nihalnihalani/nihalnihalani) 
 
 # Technical skills
 ### Languages
