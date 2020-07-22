@@ -15,18 +15,18 @@
 
 
 <a href="https://in.linkedin.com/in/nihalnihalani">
-  <img align="left" alt="Nihal Nihalani | Linkedin" width="24px" src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/Linkedin.svg" />
+  <img align="left" alt="Nihal Nihalani | Linkedin" width="60px" src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/Linkedin.svg" />
   </a>
   
   <a href="https://www.instagram.com/i_am_nihal_/">
-    <img align="left" alt="Nihal Nihalani | Instagram" width="24px" src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/Instagram.svg" />
+    <img align="left" alt="Nihal Nihalani | Instagram" width="60px" src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/Instagram.svg" />
   </a>
   <a href="mailto:nihal.nihalani@gmail.com">
-    <img align="left" alt="Nihal Nihalani | Gmail" width="24px" src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/Gmail.svg" />
+    <img align="left" alt="Nihal Nihalani | Gmail" width="60px" src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/Gmail.svg" />
  </a>
  
  <a href="https://api.whatsapp.com/send?phone=+17608841164"> 
- <img align="left" width="26px" src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/whatsapp.svg" alt="Whatsapp"/>
+ <img align="left" width="60px" src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/whatsapp.svg" alt="Whatsapp"/>
  </a> 
   
  [![HitCount](http://hits.dwyl.com/nihalnihalani/nihalnihalani.svg)](http://hits.dwyl.com/nihalnihalani/nihalnihalani) 
