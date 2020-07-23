@@ -15,43 +15,42 @@
 
 
 <a href="https://in.linkedin.com/in/nihalnihalani">
-  <img align="left" alt="Nihal Nihalani | Linkedin" width="24px" src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/Linkedin.svg" />
+  <img align="left" alt="Nihal Nihalani | Linkedin" width="40px" src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/Linkedin.svg" />
   </a>
   
   <a href="https://www.instagram.com/i_am_nihal_/">
-    <img align="left" alt="Nihal Nihalani | Instagram" width="24px" src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/Instagram.svg" />
+    <img align="left" alt="Nihal Nihalani | Instagram" width="40px" src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/Instagram.svg" />
   </a>
   <a href="mailto:nihal.nihalani@gmail.com">
-    <img align="left" alt="Nihal Nihalani | Gmail" width="24px" src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/Gmail.svg" />
+    <img align="left" alt="Nihal Nihalani | Gmail" width="40px" src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/Gmail.svg" />
  </a>
  
  <a href="https://api.whatsapp.com/send?phone=+17608841164"> 
- <img align="left" width="26px" src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/whatsapp.svg" alt="Whatsapp"/>
+ <img align="left" width="40px" src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/whatsapp.svg" alt="Whatsapp"/>
  </a> 
   
  [![HitCount](http://hits.dwyl.com/nihalnihalani/nihalnihalani.svg)](http://hits.dwyl.com/nihalnihalani/nihalnihalani) 
 
 # Technical skills
-
 ### Languages
-
 <p align="left">
   <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/java-ar21.svg" alt="Java" style="vertical-align:top; margin:4px">
   <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/python-ar21.svg" alt="python" style="vertical-align:top; margin:4px">
-</p>
+</p> 
 
 ### Tools
 <p align="left">
-  <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/jupyter-ar21.svg" alt="Jupyter" style="vertical-align:top; margin:4px">  
+<img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/arduino-official.svg"alt="Arduino" width="70px" style="vertical-align:top; margin:4px">
+<img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/jupyter-ar21.svg" alt="Jupyter" style="vertical-align:top; margin:4px">  
+<img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/33467679.png"alt="Arduino" width="70px" style="vertical-align:top; margin:4px">
 </p>
 
 ### Cloud Base Technology
 <p align="left">
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="Twitter" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/firebase-ar21.svg" alt="Twitter" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="Aws" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/firebase-ar21.svg" alt="firebase" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/google_cloud-icon.svg" width="50px" alt="Google Cloud" style="vertical-align:top; margin:4px">
 </p>
-
-
 
 ### Machine Learning
 <p align="left">
@@ -61,10 +60,9 @@
  <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/pytorch-ar21.svg" alt="pytorch" style="vertical-align:top; margin:4px">
 </p>
 <p align="left">
-    
+ 
 
-
-
+<img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/achievments.png">
    
 
 </p>
@@ -74,7 +72,7 @@
 <p align="left">
 </p>
   
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg"alt="Twitter" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/arduino-official.svg"alt="Arduino" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="Twitter" style="vertical-align:top; margin:4px">
  
   
