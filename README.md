@@ -17,12 +17,12 @@
   
   <a href="https://www.instagram.com/i_am_nihal_/">
     <img align="left" alt="Nihal Nihalani | Instagram" width="40px" src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/Instagram.svg" />
-  </a>
-  <a href="mailto:nihal.nihalani@gmail.com">
+  </a>.   
+   <a href="mailto:nihal.nihalani@gmail.com">
     <img align="left" alt="Nihal Nihalani | Gmail" width="40px" src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/Gmail.svg" />
  </a>
  
- <a href="https://api.whatsapp.com/send?phone=+17608841164"> 
+  <a href="https://api.whatsapp.com/send?phone=+17608841164"> 
  <img align="left" width="40px" src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/whatsapp.svg" alt="Whatsapp"/>
  </a> <br/>
 </p>  
