@@ -24,7 +24,7 @@
  
  <a href="https://api.whatsapp.com/send?phone=+17608841164"> 
  <img align="left" width="40px" src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/whatsapp.svg" alt="Whatsapp"/>
- </a> 
+ </a> <br/>
 </p>  
 
 
