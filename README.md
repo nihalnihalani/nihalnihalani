@@ -27,6 +27,16 @@
  </a> 
 </p>  
 
+
+
+
+
+
+
+
+
+
+
 # Technical skills
 ### Languages
 <p align="left">
