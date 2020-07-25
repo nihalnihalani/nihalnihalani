@@ -26,7 +26,6 @@
  <img align="left" width="40px" src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/whatsapp.svg" alt="Whatsapp"/>
  </a> 
 </p>  
-<p>
 
 # Technical skills
 ### Languages
