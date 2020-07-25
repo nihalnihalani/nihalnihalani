@@ -4,7 +4,7 @@
 
 
 ###   <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/Hi.gif" width="29px"> Hi there I am Nihal Nihalani 
-### 🌱 I’m currently learning Machine Learning and Deep Learning.
+### 🌱 I’m currently interested in Artificial intelligence.
 ### 📫 How to reach me: nihal.nihalani@gmail.com
 ### 🔭 I'm a Graduate student at California State University - San Marcos.
 
