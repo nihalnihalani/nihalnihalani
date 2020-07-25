@@ -60,7 +60,7 @@
 <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/kaggle-ar21.svg" alt="Kaggle" style="vertical-align:top; margin:4px">
  <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/numpy-ar21.svg" alt="Numpy" style="vertical-align:top; margin:4px">
  <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/pytorch-ar21.svg" alt="pytorch" style="vertical-align:top; margin:4px">
- <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/keras.svg" alt="pytorch" width="50px" style="vertical-align:top; margin:4px">  
+ <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/keras.svg" alt="pytorch" style="vertical-align:top; margin:4px">  
 </p>
 <p align="left">
  
