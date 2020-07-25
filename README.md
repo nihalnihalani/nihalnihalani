@@ -1,6 +1,6 @@
 
 ###   <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/Hi.gif" width="29px"> Hi there I am Nihal Nihalani 
-### <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/Developer.gif" width="50px" alt="Developer" style="vertical-align:top; margin:4px"> I'm a Graduate student at California State University - San Marcos.
+### 🔭 I'm a Graduate student at California State University - San Marcos.<img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/Developer.gif" width="50px" alt="Developer" style="vertical-align:top; margin:4px">
 ### 🌱 I’m currently interested in Artificial intelligence. 
 ### 📫 How to reach me: nihal.nihalani@gmail.com
 
