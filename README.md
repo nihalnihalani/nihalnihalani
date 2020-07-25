@@ -40,7 +40,8 @@
 <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/arduino-official.svg"alt="Arduino" width="70px" style="vertical-align:top; margin:4px">
 <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/jupyter-ar21.svg" alt="Jupyter" style="vertical-align:top; margin:4px">  
 <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/33467679.png"alt="Arduino" width="70px" style="vertical-align:top; margin:4px">
-<img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/unity3d-ar21.svg" alt="Unity" style="vertical-align:top; margin:4px">  
+<img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/unity3d-ar21.svg" alt="Unity" style="vertical-align:top; margin:4px"> 
+ <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/raspberry-pi.svg"alt="Raspberrypi" width="70px" style="vertical-align:top; margin:4px"> 
 </p>
 
 ### Cloud Base Technology
