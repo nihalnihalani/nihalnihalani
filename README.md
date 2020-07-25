@@ -10,7 +10,7 @@
 
 
 
-
+<p>
 <a href="https://in.linkedin.com/in/nihalnihalani">
   <img align="left" alt="Nihal Nihalani | Linkedin" width="40px" src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/Linkedin.svg" />
   </a>
@@ -25,8 +25,7 @@
  <a href="https://api.whatsapp.com/send?phone=+17608841164"> 
  <img align="left" width="40px" src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/whatsapp.svg" alt="Whatsapp"/>
  </a> 
-  
-
+</p>  
 <p>
 
 # Technical skills
