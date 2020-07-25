@@ -46,9 +46,9 @@
 
 ### Cloud Base Technology
 <p align="left">
-<img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/amazon-web-services-2.svg" alt="Aws" width="50px" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/firebase-ar21.svg" alt="firebase" style="vertical-align:top; margin:4px">
- <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/google_cloud-icon.svg" width="50px" alt="Google Cloud" style="vertical-align:top; margin:4px">
+<img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/amazon-web-services-2.svg" alt="Aws" width="60px" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/firebase-ar21.svg" alt="firebase"width="60px" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/google_cloud-icon.svg" width="60px" alt="Google Cloud" style="vertical-align:top; margin:4px">
 </p>
 
 ### Machine Learning
