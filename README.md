@@ -27,7 +27,7 @@
  </a> 
   
 
-
+<p>
 
 # Technical skills
 ### Languages
@@ -93,6 +93,7 @@
  [![HitCount](http://hits.dwyl.com/nihalnihalani/nihalnihalani.svg)](http://hits.dwyl.com/nihalnihalani/nihalnihalani) 
 
  
+  </p>
   </p>
   </p>
 </br>
