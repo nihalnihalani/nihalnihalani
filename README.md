@@ -40,14 +40,17 @@
 <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/arduino-official.svg"alt="Arduino" width="70px" style="vertical-align:top; margin:4px">
 <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/jupyter-ar21.svg" alt="Jupyter" style="vertical-align:top; margin:4px">  
 <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/33467679.png"alt="Arduino" width="70px" style="vertical-align:top; margin:4px">
-<img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/unity3d-ar21.svg" alt="Unity" style="vertical-align:top; margin:4px">  
+<img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/unity3d-ar21.svg" alt="Unity" style="vertical-align:top; margin:4px"> 
+ <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/raspberry-pi.svg"alt="Raspberrypi" width="50px" style="vertical-align:top; margin:4px"> 
+  <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/github-1.svg"alt="Raspberrypi" width="50px" style="vertical-align:top; margin:4px"> 
+  
 </p>
 
 ### Cloud Base Technology
 <p align="left">
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="Aws" style="vertical-align:top; margin:4px">
+<img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/amazon-web-services-2.svg" alt="Aws" width="60px" style="vertical-align:top; margin:4px">
   <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/firebase-ar21.svg" alt="firebase" style="vertical-align:top; margin:4px">
- <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/google_cloud-icon.svg" width="50px" alt="Google Cloud" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/google_cloud-icon.svg" width="60px" alt="Google Cloud" style="vertical-align:top; margin:4px">
 </p>
 
 ### Machine Learning
