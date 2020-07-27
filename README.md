@@ -72,7 +72,7 @@
  <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/google_cloud-icon.svg" width="60px" alt="Google Cloud" style="vertical-align:top; margin:4px">
 </p>
 
-### Machine Learning
+### Data Science Libraries
 <p align="left">
 <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/tensorflow-ar21.svg" alt="Tensorflow" style="vertical-align:top; margin:4px">
 <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/kaggle-ar21.svg" alt="Kaggle" style="vertical-align:top; margin:4px">
