@@ -32,7 +32,7 @@
   
   
   <a href="https://api.whatsapp.com/send?phone=+17608841164"> 
- <img align="left" width="40px" src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/whatsapp.svg" alt="Whatsapp"/>
+ <img align="left" width="40px" src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/whatsapp.svg" alt="Whatsapp"/>
  </a> <br/>
 </p>  
 
