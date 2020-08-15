@@ -10,23 +10,41 @@
 
 
 
-
+<p>
 <a href="https://in.linkedin.com/in/nihalnihalani">
   <img align="left" alt="Nihal Nihalani | Linkedin" width="40px" src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/Linkedin.svg" />
   </a>
   
+  
+  
+  
   <a href="https://www.instagram.com/i_am_nihal_/">
     <img align="left" alt="Nihal Nihalani | Instagram" width="40px" src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/Instagram.svg" />
-  </a>
+  </a>  
+  
+  
   <a href="mailto:nihal.nihalani@gmail.com">
     <img align="left" alt="Nihal Nihalani | Gmail" width="40px" src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/Gmail.svg" />
  </a>
  
- <a href="https://api.whatsapp.com/send?phone=+17608841164"> 
- <img align="left" width="40px" src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/whatsapp.svg" alt="Whatsapp"/>
- </a> 
   
- [![HitCount](http://hits.dwyl.com/nihalnihalani/nihalnihalani.svg)](http://hits.dwyl.com/nihalnihalani/nihalnihalani) 
+  
+  
+  
+  <a href="https://api.whatsapp.com/send?phone=+17608841164"> 
+ <img align="left" width="40px" src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/whatsapp.svg" alt="Whatsapp"/>
+ </a> <br/>
+</p>  
+
+
+
+
+
+
+
+
+
+
 
 # Technical skills
 ### Languages
@@ -42,8 +60,9 @@
 <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/33467679.png"alt="Arduino" width="70px" style="vertical-align:top; margin:4px">
 <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/unity3d-ar21.svg" alt="Unity" style="vertical-align:top; margin:4px"> 
  <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/raspberry-pi.svg"alt="Raspberrypi" width="50px" style="vertical-align:top; margin:4px"> 
-  <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/github-1.svg"alt="Raspberrypi" width="50px" style="vertical-align:top; margin:4px"> 
-  
+ <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/github-1.svg"alt="Raspberrypi" width="50px" style="vertical-align:top; margin:4px"> 
+ <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/slack-new-logo.svg"alt="Slack" width="50px" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/android-studio-logo.svg"alt="Slack" width="100px"style="vertical-align:top; margin:4px">
 </p>
 
 ### Cloud Base Technology
@@ -53,17 +72,20 @@
  <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/google_cloud-icon.svg" width="60px" alt="Google Cloud" style="vertical-align:top; margin:4px">
 </p>
 
-### Machine Learning
+### Data Science Libraries
 <p align="left">
 <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/tensorflow-ar21.svg" alt="Tensorflow" style="vertical-align:top; margin:4px">
 <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/kaggle-ar21.svg" alt="Kaggle" style="vertical-align:top; margin:4px">
  <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/numpy-ar21.svg" alt="Numpy" style="vertical-align:top; margin:4px">
  <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/pytorch-ar21.svg" alt="pytorch" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/keras.svg" alt="pytorch" width="50px" style="vertical-align:top; margin:4px">  
 </p>
 <p align="left">
  
 
 <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/achievments.png">
+
+[![HitCount](http://hits.dwyl.com/nihalnihalani/nihalnihalani.svg)](http://hits.dwyl.com/nihalnihalani/nihalnihalani) 
 
 </p>
 
@@ -86,11 +108,8 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="Twitter" style="vertical-align:top; margin:4px">
 
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="Twitter" style="vertical-align:top; margin:4px">
-
-
-
-
  
+  </p>
   </p>
   </p>
 </br>
@@ -107,5 +126,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡
