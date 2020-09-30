@@ -83,8 +83,6 @@
 <p align="left">
  
 
-<img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/achievments.png">
-
 [![HitCount](http://hits.dwyl.com/nihalnihalani/nihalnihalani.svg)](http://hits.dwyl.com/nihalnihalani/nihalnihalani) 
 
 </p>
