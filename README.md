@@ -56,8 +56,6 @@
 ### Tools
 <p align="left">
 <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/arduino-official.svg"alt="Arduino" width="70px" style="vertical-align:top; margin:4px">
-<img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/jupyter-ar21.svg" alt="Jupyter" style="vertical-align:top; margin:4px">  
-<img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/33467679.png"alt="Arduino" width="70px" style="vertical-align:top; margin:4px">
 <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/unity3d-ar21.svg" alt="Unity" style="vertical-align:top; margin:4px"> 
  <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/raspberry-pi.svg"alt="Raspberrypi" width="50px" style="vertical-align:top; margin:4px"> 
  <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/github-1.svg"alt="Raspberrypi" width="50px" style="vertical-align:top; margin:4px"> 
@@ -75,10 +73,10 @@
 ### Data Science Libraries
 <p align="left">
 <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/tensorflow-ar21.svg" alt="Tensorflow" style="vertical-align:top; margin:4px">
-<img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/kaggle-ar21.svg" alt="Kaggle" style="vertical-align:top; margin:4px">
+
  <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/numpy-ar21.svg" alt="Numpy" style="vertical-align:top; margin:4px">
  <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/pytorch-ar21.svg" alt="pytorch" style="vertical-align:top; margin:4px">
- <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/keras.svg" alt="pytorch" width="50px" style="vertical-align:top; margin:4px">  
+ 
 </p>
 <p align="left">
  
