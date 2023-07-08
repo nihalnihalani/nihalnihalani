@@ -84,7 +84,20 @@
 [![HitCount](http://hits.dwyl.com/nihalnihalani/nihalnihalani.svg)](http://hits.dwyl.com/nihalnihalani/nihalnihalani) 
 
 </p>
+<br>
 
+## 🔥   My Stats:
+
+
+<div align="center">
+  <img src="[![GitHub Streak](https://streak-stats.demolab.com?user=nihalnihalani&theme=dark&hide_border=true)](https://git.io/streak-stats)" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/nihalnihalani/nihalnihalani/output/snake.svg" alt="Snake animation" />
+
+<br>
 <!--
 ### Database Management 
 <p align="left">
