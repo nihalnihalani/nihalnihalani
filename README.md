@@ -95,7 +95,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/nihalnihalani/nihalnihalani/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/nihalnihalani/nihalnihalani/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 <br>
 <!--
