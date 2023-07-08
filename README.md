@@ -90,7 +90,7 @@
 
 
 <div align="center">
-  <img src="[![GitHub Streak](https://streak-stats.demolab.com?user=nihalnihalani&theme=dark&hide_border=true)](https://git.io/streak-stats)" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=nihalnihalani&theme=dark&hide_border=true" height="220" alt="streak graph"  />
 </div>
 
 ###
