@@ -95,8 +95,6 @@
 
 ###
 
-<img src="https://github.com/nihalnihalani/nihalnihalani/blob/output/snake.svg" alt="Snake animation" />
-
 <br>
 <!--
 ### Database Management 
