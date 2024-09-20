@@ -1,7 +1,6 @@
 
-###   <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/Hi.gif" width="29px"> Hi there I am Nihal Nihalani 
+#<img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/Hi.gif" width="29px"> Hi there I am Nihal Nihalani 
 
-# 👋 Hi there, I'm Nihal Nihalani! <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/Hi.gif" width="29px" alt="Waving hand">
 ### 🔭 Graduate Student at California State University - San Marcos <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/Developer.gif" width="50px" alt="Developer">
 ### 🌱 Exploring the Fascinating World of Artificial Intelligence 
 
