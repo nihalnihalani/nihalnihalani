@@ -3,6 +3,7 @@
 
 ### 🔭 Graduate Student at California State University - San Marcos <img src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/Developer.gif" width="50px" alt="Developer">
 ### 🌱 Exploring the Fascinating World of Artificial Intelligence 
+![](https://komarev.com/ghpvc/?username=nihalnihalani)
 
 ---
 
