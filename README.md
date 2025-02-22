@@ -6,9 +6,11 @@
 ![](https://komarev.com/ghpvc/?username=nihalnihalani)
 
 ---
+ <details>
+ <summary><strong> 👀 Push me 😈 </strong></summary>
 
-## 📫 How to Reach Me:
-<p>
+
+
   <a href="https://in.linkedin.com/in/nihalnihalani">
     <img align="left" alt="Nihal Nihalani | LinkedIn" width="40px" src="https://github.com/nihalnihalani/nihalnihalani/blob/master/Assets/Linkedin.svg" />
   </a>
@@ -66,6 +68,5 @@
 </div>
 
 ---
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnihalnihalani&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<details>
 
