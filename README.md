@@ -6,6 +6,12 @@
 ![](https://komarev.com/ghpvc/?username=nihalnihalani)
 
 ---
+
+## 📊 GitHub Profile Summary
+
+![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nihalnihalani&theme=radical)
+
+---
  <details>
  <summary><strong> 👀 Push me 😈 </strong></summary>
 
