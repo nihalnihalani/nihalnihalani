@@ -45,9 +45,13 @@
 - 🤖 **[Smart Garbage Collection](https://github.com/nihalnihalani/Smart-Garbage-Collection)** - Autonomous robot with AI-based waste classification
 - 🎮 **[Game Controller (NUCLEO)](https://github.com/nihalnihalani/Game-Controller-using-NUCLEO-F401RE-board)** - IoT motion-based game controller using NUCLEO-F401RE sensors
 
+[![Straude Scorecard](https://straude.com/api/embed/<nihalnihalani>/svg)](https://straude.com/u/<nihalnihalani>)
+
 ---
  <details>
  <summary><strong> 👀 Push me 😈 </strong></summary>
+  
+
 
 
 
