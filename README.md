@@ -11,6 +11,7 @@
 
 ![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nihalnihalani&theme=radical)
 
+[![Tokscale Stats](https://tokscale.ai/api/embed/nihalnihalani/svg?view=3d)](https://tokscale.ai/u/nihalnihalani)
 ---
 
 ## Current Projects
@@ -45,7 +46,7 @@
 - 🤖 **[Smart Garbage Collection](https://github.com/nihalnihalani/Smart-Garbage-Collection)** - Autonomous robot with AI-based waste classification
 - 🎮 **[Game Controller (NUCLEO)](https://github.com/nihalnihalani/Game-Controller-using-NUCLEO-F401RE-board)** - IoT motion-based game controller using NUCLEO-F401RE sensors
 
-[![Straude Scorecard](https://straude.com/api/embed/<nihalnihalani>/svg)](https://straude.com/u/<nihalnihalani>)
+
 
 ---
  <details>
